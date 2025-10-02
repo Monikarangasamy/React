@@ -14,6 +14,18 @@ This is a simple and interactive quiz application built with React. It allows us
 
 -----
 
+<img width="1912" height="903" alt="image" src="https://github.com/user-attachments/assets/b19e7293-e1c2-4d5c-9c5f-d9af8c953fd4" />
+
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/4166f970-84e8-4e2d-af6d-960a37d21f34" />
+
+<img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/604bbe8d-a790-4deb-9ec9-87be3b82272f" />
+
+<img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/e9961336-260d-4685-892c-234292fc7802" />
+
+<img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/3d966aec-d1e0-4416-87b8-37afd83763ad" />
+
+
+
 ## Installation
 
 To get a copy of this project up and running on your local machine, follow these simple steps.
@@ -94,6 +106,7 @@ The project follows a standard React application structure, with components and 
   - `src/data/questions.js`: A separate module containing the quiz questions and answers, making it easy to add or modify content.
 
 -----
+
 
 ## Dependencies
 
